@@ -8,13 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LSP\Correct\" />
-    <Folder Include="LSP\Incorrect\" />
-    <Folder Include="OCP\Correct\" />
-    <Folder Include="OCP\Incorrect\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
